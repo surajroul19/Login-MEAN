@@ -1,0 +1,39 @@
+[{
+    "name":"Kappu",
+    "product":"Chair",
+    "description":"",
+    "color":"green",
+    "pricePerUnit":"2000",
+    "ratings":4,
+    "brand":"killer",
+    "category":"Chair"
+},
+{
+    "name":"Kappu",
+    "product":"Chair",
+    "description":"",
+    "color":"green",
+    "pricePerUnit":"2000",
+    "ratings":4,
+    "brand":"killer",
+    "category":"Chair"
+},
+{
+    "name":"Kappu",
+    "product":"Chair",
+    "description":"",
+    "color":"green",
+    "pricePerUnit":"2000",
+    "ratings":4,
+    "brand":"killer",
+    "category":"Chair"
+},{
+    "name":"Kappu",
+    "product":"Chair",
+    "description":"",
+    "color":"green",
+    "pricePerUnit":"2000",
+    "ratings":4,
+    "brand":"killer",
+    "category":"Chair"
+}]
